@@ -22,56 +22,56 @@
                 }
             },
             "assets": {
-                "650861fd8d3ed71ff44943bb": {
+                "65086fa53baa434d30f03956": {
                     "externalStorageType": "GCS",
-                    "_id": "650861fd8d3ed71ff44943bb",
+                    "_id": "65086fa53baa434d30f03956",
                     "size": "53612",
                     "mimetype": "image/png",
                     "encoding": "7bit",
                     "originalname": "305soft-high-resolution-logo-black-on-transparent-background.png",
-                    "backendURI": "/project/650861fd8d3ed792b74943b9/getasset/650861fd8d3ed71ff44943bb",
+                    "backendURI": "/project/65086fa53baa433e15f03954/getasset/65086fa53baa434d30f03956",
                     "name": "305soft-high-resolution-logo-black-on-transparent-background.png",
-                    "externalName": "users/64f2b5efd8584f5864e0bae1/projects/650861fd8d3ed792b74943b9/assets/650861fd8d3ed71ff44943bb",
+                    "externalName": "users/64f2b5efd8584f5864e0bae1/projects/65086fa53baa433e15f03954/assets/65086fa53baa434d30f03956",
                     "createdAt": "2023-09-11T22:58:06.104Z",
                     "updatedAt": "2023-09-11T22:58:06.104Z",
                     "__v": 0,
-                    "id": "650861fd8d3ed71ff44943bb",
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f2b5efd8584f5864e0bae1/projects/650861fd8d3ed792b74943b9/assets/650861fd8d3ed71ff44943bb?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230918%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230918T145217Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=af61ed25a2d639305b4aa64e6c2877e4d16beb718ef1d570950666dab0909e9448f7ff393f67b4de46780c2043e370c71e9bfb5eaebfb83af65e585e2ad028d6f88126407f71d9223779b81340d9f0e236dd5953e9433f5172cc905bbbb035639f333bb425097c6b1e57c06c3f07eda17c1a634bfb1333341d9efb4881655284667b28ac6f81d4adb12d76b58c171aa63d1032d4db7deebe32f7df6e8994591681f96f5d0b1b93074d6a222fd899b53bc828785601dad24fdc36e702e0f1a9679bc631886893033b61d9dbe40373f9b1d6e607a65b0c0f429ef2bdbd4a25ff009ade303dc14ecd3abe0ad791f60f5873157dbc9fe5317188a71448ee9457bdc7",
-                    "signedUrlExpirationTime": 1695221537834
+                    "id": "65086fa53baa434d30f03956",
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f2b5efd8584f5864e0bae1/projects/65086fa53baa433e15f03954/assets/65086fa53baa434d30f03956?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230918%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230918T154205Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=0ef7e07097e0d0a5f10821d58542f0e6968334abab9677aee14e78ae1262f84a61939e994aa0f36f190b83e68645b0ee1a2563ba16ec26c28a44fb250e20507fe02cf2222670a7d0d7da0aebf7f896ebfbf11f272a19d91fdce5fa800be89245ecb2d80106aced0fb80c4d0f45ad0e3df6510e75366192826a2dff3c626a55c3b71413b303514b3fa411eaaa79e6ca2e52da53f1df4cb1c821ced49fd416167edf9d1fcc1edf93a0decc38d30860d2436254183f75ca54e590f7db1769c9979cfc816a15a692e5ae96ffc2d0eab886193cf9de7bce85763d32974b4adec16606445f6cd74cb92f734a0a3099f511953797ad64f3c8adbeb96b2dbd24f0f8266a",
+                    "signedUrlExpirationTime": 1695224525739
                 },
-                "650861fd8d3ed7343b4943bd": {
+                "65086fa53baa434998f03958": {
                     "externalStorageType": "GCS",
-                    "_id": "650861fd8d3ed7343b4943bd",
+                    "_id": "65086fa53baa434998f03958",
                     "size": "50372",
                     "mimetype": "image/jpeg",
                     "encoding": "7bit",
                     "originalname": "camera-cartoon-black-and-white-black-camera-soda-suta.jpg",
-                    "backendURI": "/project/650861fd8d3ed792b74943b9/getasset/650861fd8d3ed7343b4943bd",
+                    "backendURI": "/project/65086fa53baa433e15f03954/getasset/65086fa53baa434998f03958",
                     "name": "camera-cartoon-black-and-white-black-camera-soda-suta.jpg",
-                    "externalName": "users/64f2b5efd8584f5864e0bae1/projects/650861fd8d3ed792b74943b9/assets/650861fd8d3ed7343b4943bd",
+                    "externalName": "users/64f2b5efd8584f5864e0bae1/projects/65086fa53baa433e15f03954/assets/65086fa53baa434998f03958",
                     "createdAt": "2023-09-11T23:06:48.197Z",
                     "updatedAt": "2023-09-11T23:06:48.197Z",
                     "__v": 0,
-                    "id": "650861fd8d3ed7343b4943bd",
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f2b5efd8584f5864e0bae1/projects/650861fd8d3ed792b74943b9/assets/650861fd8d3ed7343b4943bd?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230918%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230918T145217Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=45b8fbed4db1e2d7b36268ac5499b69fec2cbc77e736bcfbd351e5594c5aa7c174c9ff3b4990326b3c03c9d37a9efca465107bb36cde429d958159d78e5f1eb94f98a9a8e21acbc077cd5d90b5bc895969e3dc608126204ca1bb58aa1bc14eb03a1166164872ceb361a45efecb145fb357ef7a75bdb226f631403bcb2ef3c54c8adcc18bafd648d15335212d20b5263282b8cbdd25824e7d5bd7df540ca7892cae9283eb4065ba2d118abe7ad8281ab9644fb957f9431d6355a1a3c33467e7d863233d1cdecc4a4064da28ca5aea68c2dc460c199387d9b0c6dc30ada20d6fc1b34a2d4dd70c949f841978935299d224e81e8cbfeaf37a3cc689f88b1154ddd6",
-                    "signedUrlExpirationTime": 1695221537836
+                    "id": "65086fa53baa434998f03958",
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f2b5efd8584f5864e0bae1/projects/65086fa53baa433e15f03954/assets/65086fa53baa434998f03958?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230918%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230918T154205Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=145171eee9544720e945fa3a1b45e583de4aa36fe7b5c18dc66450af3ba7a145b5ecb1063828f01c5327cc811f687f4b0d3d0bb1ccbfafd47efc87f43a5d6289b606e69888b71bd4707f75b513db2434ea5579b297bbab2d9b20f1ebd46fc5d08367101583f6bb8a29a6eb8305a996bb7decd66c8fe5e486b33e3728e6ebb7b1a51447bc40c83417efb6b2c89ba99107adceb6c4fa874fb0a5200aec09f9d86e0571fb9b3405dec020bb1a33663b725f1b20a3a83421aa9f95c51a40351f97fb11f0c21d8439ae0de78f26de2b9ed7d1bd6a9b87af7a0360a14a205c6e8ca99e0412eeff2d0d93a774b3408f481bbe74f91f2604528d2513ee3db36cf63283a6",
+                    "signedUrlExpirationTime": 1695224525741
                 },
-                "650861fd8d3ed754c64943bf": {
+                "65086fa53baa43528bf0395a": {
                     "externalStorageType": "GCS",
-                    "_id": "650861fd8d3ed754c64943bf",
+                    "_id": "65086fa53baa43528bf0395a",
                     "size": "22780",
                     "mimetype": "image/webp",
                     "encoding": "7bit",
                     "originalname": "compact-digital-camera-illustration-png.webp",
-                    "backendURI": "/project/650861fd8d3ed792b74943b9/getasset/650861fd8d3ed754c64943bf",
+                    "backendURI": "/project/65086fa53baa433e15f03954/getasset/65086fa53baa43528bf0395a",
                     "name": "compact-digital-camera-illustration-png.webp",
-                    "externalName": "users/64f2b5efd8584f5864e0bae1/projects/650861fd8d3ed792b74943b9/assets/650861fd8d3ed754c64943bf",
+                    "externalName": "users/64f2b5efd8584f5864e0bae1/projects/65086fa53baa433e15f03954/assets/65086fa53baa43528bf0395a",
                     "createdAt": "2023-09-11T23:07:03.376Z",
                     "updatedAt": "2023-09-11T23:07:03.376Z",
                     "__v": 0,
-                    "id": "650861fd8d3ed754c64943bf",
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f2b5efd8584f5864e0bae1/projects/650861fd8d3ed792b74943b9/assets/650861fd8d3ed754c64943bf?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230918%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230918T145217Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=0df5cef5a7ea25e5875e857eed98e66190c94df1b6574eb43c9f82ca326c6eaa6c7c0f896c9aca13653bd0f87377db7ce20a464c037ccb5daf4b059c7eeb51fc20a18e3bd857b021e9751afb4d76d056f8cc0a56ae123bd2da49f3872a46249e8355d0b5e966877be6d175fd27acc5784c8f9acdf75100367340ea5bc3dc2016888b5d4cce1384e6b2de12223e99efa5bf4299572c8bca6590cd519913ae21a40d029e9613216daf221638f31402c61222e5478312c51c332e89da2a2d3ae9cfccb1af432672d90e329e7669712515c80a6cf8ed5bf0058cbd4b05dee33fdca476d061427a9ac8e8c4cf17ba0dd33489959ecc4a74368f9cabcca53cd7585732",
-                    "signedUrlExpirationTime": 1695221537838
+                    "id": "65086fa53baa43528bf0395a",
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f2b5efd8584f5864e0bae1/projects/65086fa53baa433e15f03954/assets/65086fa53baa43528bf0395a?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230918%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230918T154205Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=71a934fbae26b34330f0d8b51196e5bd58d18b6fa60611d6fcc480e5796be92cbc695337c7c0c49f9c8cefaedcc520f37113c50a41800018de53ed13919426446d845379bf641de136c13d0d209cd67ac73c80f276e18ec3cdcc5b498b0e3406ca18bc47b0478440b959b6a8286bb18982e9506e7eab05c945282e7cc6a4e56e5fdeda27c26d55933d8354b100262823af939521aeb39cc70e1a3f54a0d3f238e24227890c8bac7702b2ebb50e4ef4846282498d3095dd329954ea43ea9aaddaa4849f1a6b70da955d050ed80ee800de7ed4bdb8a2bb5396935888375c0fb1cf66d635e3f6d4176b48d3b6e6ade8cb4e36da671b00aa0594c16d9b00ddada709",
+                    "signedUrlExpirationTime": 1695224525743
                 }
             },
             "backendUpgradeVersion": 21,
@@ -138,7 +138,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Matt's Camera App",
+            "projectName": "Dev Copy Camera App",
             "settings": {
                 "teamId": null,
                 "appName": null,
@@ -170,7 +170,10 @@
                 "cloudinaryAPISecret": null,
                 "permissions": {
                     "ios": {
-                        "usageDescriptions": {}
+                        "usageDescriptions": {
+                            "NSCameraUsageDescription": "",
+                            "NSPhotoLibraryUsageDescription": ""
+                        }
                     }
                 },
                 "googleMapAPIKeyAndroid": null,
@@ -216,7 +219,10 @@
                 "cloudinaryAPISecret": null,
                 "permissions": {
                     "ios": {
-                        "usageDescriptions": {}
+                        "usageDescriptions": {
+                            "NSCameraUsageDescription": "",
+                            "NSPhotoLibraryUsageDescription": ""
+                        }
                     }
                 },
                 "googleMapAPIKeyAndroid": null,
@@ -243,7 +249,13 @@
             "totalCopy": "0",
             "totalStar": "0",
             "starAction": "star",
-            "variables": {},
+            "variables": {
+                "0b23f70d-02b8-4a60-968c-906a9791c980": {
+                    "scope": "APP",
+                    "name": "Voice Control",
+                    "screenId": "828a2288-ffb8-40c3-bf2b-913b7e303506"
+                }
+            },
             "defaultDesignerDevice": "PHONE",
             "defaultDesignerOrientation": "PORTRAIT",
             "schemaVersion": 2,
