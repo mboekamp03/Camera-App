@@ -138,7 +138,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Dev Copy Camera App",
+            "projectName": "Matt's Camera App",
             "settings": {
                 "teamId": null,
                 "appName": null,
@@ -246,7 +246,7 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "0",
+            "totalCopy": "1",
             "totalStar": "0",
             "starAction": "star",
             "variables": {
